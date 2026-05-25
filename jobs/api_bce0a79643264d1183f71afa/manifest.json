@@ -1,0 +1,37 @@
+{
+  "job_id": "api_bce0a79643264d1183f71afa",
+  "mode": "zip_split",
+  "file_url": "https://free-dl6.myalphadl.com/FcqoFt-VTIfCOeI4AGP9lQ/House.of.Cards.2013.S01E01.BluRay.720p.mkv",
+  "suggested_filename": "House.of.Cards.2013.S01E01.BluRay.720p.mkv",
+  "total_size_bytes": 420142066,
+  "created_at_utc": "2026-05-25T03:49:05.517769+00:00",
+  "zip_folder": "jobs/api_bce0a79643264d1183f71afa/zip",
+  "zip_main_file": "House.of.Cards.2013.S01E01.BluRay.720p_split.zip",
+  "zip_parts": [
+    {
+      "name": "House.of.Cards.2013.S01E01.BluRay.720p_split.z01",
+      "path": "jobs/api_bce0a79643264d1183f71afa/zip/House.of.Cards.2013.S01E01.BluRay.720p_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "House.of.Cards.2013.S01E01.BluRay.720p_split.z02",
+      "path": "jobs/api_bce0a79643264d1183f71afa/zip/House.of.Cards.2013.S01E01.BluRay.720p_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "House.of.Cards.2013.S01E01.BluRay.720p_split.z03",
+      "path": "jobs/api_bce0a79643264d1183f71afa/zip/House.of.Cards.2013.S01E01.BluRay.720p_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "House.of.Cards.2013.S01E01.BluRay.720p_split.z04",
+      "path": "jobs/api_bce0a79643264d1183f71afa/zip/House.of.Cards.2013.S01E01.BluRay.720p_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "House.of.Cards.2013.S01E01.BluRay.720p_split.zip",
+      "path": "jobs/api_bce0a79643264d1183f71afa/zip/House.of.Cards.2013.S01E01.BluRay.720p_split.zip",
+      "size_bytes": 42654944
+    }
+  ]
+}
